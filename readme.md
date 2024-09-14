@@ -1,4 +1,4 @@
-#output
+
 # Dropdown Navigation Bar with Social Media Links
 
 This project demonstrates a basic webpage structure with a navigation bar that includes a dropdown menu for social media links. The page is styled with CSS for layout and design.
@@ -44,4 +44,5 @@ This project demonstrates a basic webpage structure with a navigation bar that i
 
 This project is free to use and modify for personal or educational purposes.
 
+# OUTPUT
 https://mohamedyusuf007.github.io/navigationbar/
